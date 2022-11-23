@@ -74,5 +74,5 @@ pass: GLuis10052004
 
 ----------Cuenta Gitlab--------------------
 GitLab Count
-luisgenrry3@gmail.com
-!Gpotter2022
+Gmail: luisgenrry3@gmail.com
+Pass: !Gpotter2022
